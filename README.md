@@ -3,7 +3,7 @@ The first prize winning solution of Pixelate -an image processing event ,with a 
 
 ## Problem Statement:
 Pixelate of Technecx2019 ,expected us to develop a robot for playing a ludo like game using the live feed from a over-head web cam.
-The detailed PS: 
+The detailed PS:  (https://github.com/wikkieritz/PIXELATE_TECHNEX2019/blob/master/Robonex_Pixelate.pdf)
 
 ## Our Solution:
  
